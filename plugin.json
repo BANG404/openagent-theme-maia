@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "openagent-theme-maia",
-  "version": "1.1.0",
-  "description": "Maia: maia / neutral / neutral / neutral",
+  "version": "1.1.1",
+  "description": "A neutral gray theme with 14px text, large rounded controls, and extra spacing; supports light and dark modes.",
   "license": "MIT",
   "repository": "https://github.com/BANG404/openagent-theme-maia",
   "homepage": "https://ui.shadcn.com/create",
@@ -135,12 +135,12 @@
         "default_locale": "en",
         "translations": {
           "en": {
-            "display_name": "Maia",
-            "description": "Maia: maia / neutral / neutral / neutral"
+            "display_name": "Maia Rounded Theme",
+            "description": "A neutral gray theme with 14px text, large rounded controls, and extra spacing; supports light and dark modes."
           },
           "zh": {
-            "display_name": "Maia",
-            "description": "Maia 主题：maia / neutral / neutral / neutral"
+            "display_name": "Maia 大圆角主题",
+            "description": "中性灰阶配色，搭配 14px 字号、大圆角控件和更宽松的间距，支持浅色与深色模式。"
           }
         }
       },
