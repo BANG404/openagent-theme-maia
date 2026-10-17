@@ -1,0 +1,15 @@
+{
+  "title": "Maia",
+  "description": "Hugeicons / Figtree",
+  "style": "maia",
+  "baseColor": "neutral",
+  "theme": "neutral",
+  "chartColor": "neutral",
+  "iconLibrary": "hugeicons",
+  "font": "figtree",
+  "fontHeading": "inherit",
+  "menuAccent": "subtle",
+  "menuColor": "default",
+  "radius": "default",
+  "rtl": false
+}
